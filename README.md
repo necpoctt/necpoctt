@@ -26,5 +26,5 @@ JavaScript · TypeScript · React · Vue · Angular · Material UI · Webpack ·
 - CakeResume 履歷：[cake.me/resumes/necpoctt](https://www.cake.me/resumes/necpoctt)
 - Medium：[@necpoctt](https://medium.com/@necpoctt)
 - 方格子：[廖哲皓 Howard Liao 的前端筆記](https://vocus.cc/salon/howard-liao)
-- CodePen：[廖哲皓 Howard Liao](https://codepen.io/Howard-Liao-the-lessful)
+- CodePen：[廖哲皓 Howard Liao](https://codepen.io/necpoctt)
 - HackMD：[廖哲皓 Howard Liao](https://hackmd.io/@necpoctt)
