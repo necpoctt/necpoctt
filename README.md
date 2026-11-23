@@ -1,13 +1,13 @@
 # 廖哲皓 Howard Liao
 
-我是**廖哲皓（Howard Liao）**，台北的 Frontend Lead（Principal Engineer）。
+我是**廖哲皓（Howard Liao）**，台北的 Principal Engineer。
 
-- 14 年以上前端開發經驗，6 年以上前端主管經驗
+- 14 年以上前端開發經驗
 - 11 年以上後端開發經驗（Node.js、C# / ASP.NET）
 - 專注於前端架構、程式碼品質、CI/CD、單元測試與 E2E 測試
 - 擔任過 Scrum Master，帶領團隊用穩定的流程交付產品
 
-Hi, I'm **Howard Liao (廖哲皓)**, a Frontend Lead (Principal Engineer) based in Taipei, Taiwan, with 14+ years of frontend and 6+ years of team lead experience.
+Hi, I'm **Howard Liao (廖哲皓)**, a Principal Engineer based in Taipei, Taiwan, with 14+ years of frontend development experience.
 
 ## 技術 Skills
 
