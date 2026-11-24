@@ -29,5 +29,3 @@ JavaScript · TypeScript · React · Vue · Angular · Material UI · Webpack ·
 - 方格子：[廖哲皓 Howard Liao 的前端筆記](https://vocus.cc/salon/howard-liao)
 - CodePen：[廖哲皓 Howard Liao](https://codepen.io/necpoctt)
 - HackMD：[廖哲皓 Howard Liao｜作品與文章整理](https://hackmd.io/@necpoctt/howard-liao)
-- WordPress：[廖哲皓 Howard Liao 的前端筆記](https://necpoctt.wordpress.com/)
-- Blogger：[廖哲皓 Howard Liao 的美食與旅行筆記](https://necpoctt.blogspot.com/)
